@@ -1,0 +1,12 @@
+################### BACKEND ###################
+
+# DEPENDENCIES
+backend/node_modules
+
+# ENVS
+backend/.env
+
+# BUILD
+backend/build
+
+################### FRONTEND ###################
